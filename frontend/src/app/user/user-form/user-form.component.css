@@ -1,0 +1,7 @@
+.app-user-form{
+    background: url(../../../assets/img/background2.jpg) ;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    min-height:800px
+}

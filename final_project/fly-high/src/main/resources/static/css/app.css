@@ -1,0 +1,134 @@
+.form_complete_reserve {
+
+    width:70%;
+    margin-right: 15%;
+    margin-left: 15%;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.1);
+    padding: 2%;
+    background-color: #d4c6b1a6;
+    margin-top: 1%;
+
+}
+.body-box {
+    background: rgba(0,0,0,0.35);
+    border-radius: 25PX;
+    width:70%;
+    margin-right: 15%;
+    margin-left: 15%;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.1);
+    padding: 2%;
+    margin-top: 7%;
+}
+.box-heading {
+    margin: 0 auto;
+    text-align: center;
+}
+body {
+    background: url("../images/background2.jpg") repeat 0 0;
+    background-size:cover;
+}
+img {
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+#emailHelp {
+    color: #0b2e13;
+}
+input.ng-invalid.ng-touched {
+    border: 1px solid #DA3637;
+}
+input.ng-valid.ng-touched {
+    border: 1px solid #509D12;
+}
+.ng-invalid .btn {
+    background-color: gray;
+}
+.ng-valid .btn {
+    background-color: dodgerblue;
+}
+.error {
+    color: red;
+}
+
+h2.header {
+    font-family: monospace;
+    font-size: xxx-large;
+}
+h4 {
+    font-size: xcolor: black;-larger;
+    font-family: monospace;
+}
+
+span {
+    font-family: monospace;
+    font-size: large;
+    color: black;
+}
+
+h3.box-heading.ng-binding {
+    font-size: xx-large;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+label{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+button.btn.btn-primary {
+    font-family: monospace;
+    font-weight: bold;
+}
+
+small#emailHelp {
+    font-family: monospace;
+}
+input {
+    font-family: monospace;
+}
+
+.row.index-box {
+    text-align: center;
+}
+
+i.fa.fa-lock.fa_icon {
+    color: black;
+}
+
+i.fa.fa-user-plus.fa_icon {
+    color: black;
+}
+
+alert-primary {
+    font-family: monospace;
+}
+
+h2.box-heading {
+ font-family: monospace;
+}
+.alert-primary {
+    color: black;
+    background-color: none;
+    border-color: none;
+    font-family:monospace;
+    border-color:none;
+}
+
+.form_complete_reserve {
+    border-radius: 25px;
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(0 0 0 / 10%);
+    padding: 2%;
+    background-color: #d4c6b1a6;
+    margin-top: 1%;
+}

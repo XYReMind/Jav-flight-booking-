@@ -1,0 +1,18 @@
+.search-result-info{
+    background: url(../../../assets/img/background2.jpg) ;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    min-height:800px
+}
+.table{
+    background-color: #fff;
+    border-radius: 15px;
+    margin-top: 50px;
+    border:none;
+    
+}
+
+.container mt-4{
+    margin-top: 0 !important;
+}
